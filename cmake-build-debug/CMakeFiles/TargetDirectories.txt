@@ -1,0 +1,3 @@
+/Users/m.namanxonova/CLionProjects/Muqaddasxon Namanxonova/cmake-build-debug/CMakeFiles/Muqaddasxon_Namanxonova.dir
+/Users/m.namanxonova/CLionProjects/Muqaddasxon Namanxonova/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/m.namanxonova/CLionProjects/Muqaddasxon Namanxonova/cmake-build-debug/CMakeFiles/rebuild_cache.dir
